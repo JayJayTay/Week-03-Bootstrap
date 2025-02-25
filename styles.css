@@ -26,6 +26,8 @@ nav{
     font-size: 20px;
 }
 
+/* what is controling the text color and underlining of the nav items, bootstraps or internal css? */
+
 table {
     font-family: "Coming Soon", serif;
     font-size: 15px;
