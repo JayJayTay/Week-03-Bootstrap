@@ -11,3 +11,34 @@
 *{
     border: 1px;
 }
+
+h1, h2, h5 {
+    font-family: "Margarine", serif;
+}
+
+p {
+    font-family: "Coming Soon", serif;
+    font-size: 25px;
+}
+
+nav{
+    font-family: "Coming Soon", serif;
+    font-size: 20px;
+}
+
+table {
+    font-family: "Coming Soon", serif;
+    font-size: 15px;
+
+}
+
+form {
+    font-family: "Coming Soon", serif;
+    font-size: 15px;
+}
+
+footer {
+    font-family: "Coming Soon", serif;
+    font-size: 15px;
+
+}
