@@ -1,16 +1,3 @@
-/*body {
-    background-image: bg-paintsplat2.jpg;
-}
-
-.penimg {
-    display: flex;
-    flex-basis: 100px;
-}
-*/
-
-*{
-    border: 1px;
-}
 
 h1, h2, h5 {
     font-family: "Margarine", serif;
@@ -24,13 +11,27 @@ p {
 nav{
     font-family: "Coming Soon", serif;
     font-size: 20px;
+    text-un
 }
 
-/* what is controling the text color and underlining of the nav items, bootstraps or internal css? */
+/* figured out how to change the font of the card buttons, by targeting the class btn in css stylesheet*/
+
+.btn {
+    font-family: "Coming Soon", serif;
+    font-size: 15px;
+}
 
 table {
     font-family: "Coming Soon", serif;
     font-size: 15px;
+
+}
+
+/* figcaption is an element not a class*/
+
+figcaption {
+    font-family: "Coming Soon", serif;
+    font-size: 15px
 
 }
 
